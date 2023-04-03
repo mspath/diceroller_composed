@@ -23,7 +23,7 @@ Environment
 
 ```
 language: kotlin
-repo: dicerollercomposed
+repo: diceroller_composed
 status: archived
 updated: 2023-04-03
 ```
